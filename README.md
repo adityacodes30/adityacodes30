@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A developer exploring ML and AI</h3>
 
+- I am a MERN stack developer🤝
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityacodes30](https://github.com/adityacodes30)
