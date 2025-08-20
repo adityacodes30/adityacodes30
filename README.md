@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Aditya 👋</h1>
-<h3 align="left">Backend & AI Systems 
+<h3 align="left">Backend & AI Systems  </h3>
 
 - 🔭 Currently working on **AI Search and Products @ Atlan** and **GSoC: HPX + NVIDIA Thrust Integration**  
 - ⚡ Past: Engineered **LLM infra & RAG pipelines @ SpikeX**, **backend trading systems @ GoQuant**, **blockchain automation @ IIT Madras**  
