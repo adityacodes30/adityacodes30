@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Aditya 👋</h1>
-<h3 align="left">Backend & AI Systems | Building Intelligent Infrastructure</h3>
+<h3 align="left">Backend & AI Systems 
 
-- 🔭 Currently working on **AI Governance @ Atlan** and **GSoC: HPX + NVIDIA Thrust Integration**  
+- 🔭 Currently working on **AI Search and Products @ Atlan** and **GSoC: HPX + NVIDIA Thrust Integration**  
 - ⚡ Past: Engineered **LLM infra & RAG pipelines @ SpikeX**, **backend trading systems @ GoQuant**, **blockchain automation @ IIT Madras**  
 - 🌱 Exploring **retrieval systems, low-latency inference, and memory-safe backend architectures**  
 - 💬 Let’s talk about **LLM applications, intelligent search, HPC, and systems programming**  
